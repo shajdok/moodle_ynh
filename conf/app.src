@@ -1,5 +1,5 @@
-SOURCE_URL=https://download.moodle.org/download.php/stable34/moodle-3.4.2.tgz
-SOURCE_SUM=1856c045ee52aa97a13ae6c078ee2c270ee966cd80b79cd12f0d2395b592bd8f
+SOURCE_URL=https://download.moodle.org/download.php/stable35/moodle-latest-35.tgz
+SOURCE_SUM=540d923a9b956f2db91d144fbef7872858cbd2e391955f348bbecc85820c7e27
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=
